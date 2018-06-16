@@ -1,6 +1,6 @@
 {
-  "name": "sensor",
-  "short_name": "sensor",
+  "name": "accelerationsensor",
+  "short_name": "accelerationsensor",
   "icons": [
     {
       "src": "/static/img/icons/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/sensor/#/",
+  "start_url": "/AccelerationSensor/#/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#4DBA87"
